@@ -3,7 +3,8 @@
 
 *(Indonesian version available below)*
 
-![Dashboard Preview]([Link atau path ke gambar screenshot dashboard-mu di folder assets])
+![Dashboard Preview](CreditCard-Portofolio-Project/Assets/Screenshot 2026-09-10 151918.png
+)
 
 **[🔗 Access the Interactive Dashboard Here](https://datastudio.google.com/s/qXLz5Ip6860)**
 
