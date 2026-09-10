@@ -4,7 +4,7 @@
 *(Indonesian version available below)*
 
 ![Dashboard Preview](CreditCard-Portofolio-Project/Assets/Screenshot 2026-09-10 151918.png
-)
+CreditCard-Portofolio-Project/Assets/Screenshot 2026-09-04 055052.png)
 
 **[🔗 Access the Interactive Dashboard Here](https://datastudio.google.com/s/qXLz5Ip6860)**
 
